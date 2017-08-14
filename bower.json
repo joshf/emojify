@@ -1,0 +1,17 @@
+{
+  "name": "emojify_joshf",
+  "description": "Random emojis",
+  "keywords": [
+    "emoji",
+    "fun"
+  ],
+  "homepage": "http://www.joshf.me",
+  "license": "MIT",
+  "moduleType": "globals",
+  "main": [
+    "emojify.min.js"
+  ],
+  "ignore": [
+    "/.*"
+  ]
+}
