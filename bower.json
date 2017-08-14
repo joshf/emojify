@@ -9,7 +9,7 @@
   "license": "MIT",
   "moduleType": "globals",
   "main": [
-    "emojify.min.js"
+    "emojify.js"
   ],
   "ignore": [
     "/.*"
